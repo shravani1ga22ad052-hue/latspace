@@ -2,7 +2,7 @@
 
 **Track chosen:** ✅ **Track A** 
 **Public GitHub Repository:** https://github.com/shravani1ga22ad052-hue/latspace  
-**Screen Recording (2–5 min):** _add your Loom/Drive URL_  
+**Screen Recording (2–5 min):** https://drive.google.com/file/d/1A1uPbgWz014atH46HeLbCghDLyB4P2x5/view?usp=sharing
 **Hosted Demo (Bonus):** optional
 
 this implementation follows requirements:
