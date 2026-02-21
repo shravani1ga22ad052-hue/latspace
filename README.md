@@ -1,12 +1,11 @@
 # LatSpace AI Intern Take-Home — Track A (Intelligent Excel Parser)
 
-**Track chosen:** ✅ **Track A**  
+**Track chosen:** ✅ **Track A** 
 **Public GitHub Repository:** https://github.com/shravani1ga22ad052-hue/latspace  
 **Screen Recording (2–5 min):** _add your Loom/Drive URL_  
 **Hosted Demo (Bonus):** optional
 
-## Is the project aligned with expectations?
-Yes — this implementation follows Track A requirements:
+this implementation follows requirements:
 - `POST /parse` API for `.xlsx` uploads
 - Header-row auto detection
 - Fuzzy column-to-parameter mapping against registry
@@ -69,8 +68,3 @@ make package
 ```
 Creates `latspace_track_a_submission.zip` including source code, docs, tests, and sample test data.
 
-## Potential Improvements
-- Add optional LLM-backed low-confidence remapping (human review mode)
-- Add chunked row processing for large files
-- Add async job mode with parse history
-- Add richer domain-specific validation bounds
