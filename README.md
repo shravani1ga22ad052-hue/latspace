@@ -1,7 +1,7 @@
 # LatSpace AI Intern Take-Home — Track A (Intelligent Excel Parser)
 
 **Track chosen:** ✅ **Track A**  
-**Public GitHub Repository:** _add your repo URL after pushing_  
+**Public GitHub Repository:** https://github.com/shravani1ga22ad052-hue/latspace  
 **Screen Recording (2–5 min):** _add your Loom/Drive URL_  
 **Hosted Demo (Bonus):** optional
 
